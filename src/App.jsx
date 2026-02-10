@@ -71,7 +71,7 @@ function App() {
         </Card>
         {/* Table part  */}
         <div className="border-t border-white mt-6"> </div>
-        {/* <Table className={"text-white w-full max-w-sm mx-auto mt-10"}>
+        <Table className={"text-white w-full max-w-sm mx-auto mt-10"}>
           <TableCaption>A list of your recent task.</TableCaption>
           <TableHeader>
             <TableRow>
@@ -97,7 +97,7 @@ function App() {
           <TableFooter>
             <TableRow></TableRow>
           </TableFooter>
-        </Table> */}
+        </Table>
       </div>
     </>
   );
